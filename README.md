@@ -41,3 +41,45 @@ const zillHassnain = {
     mindset: "Build. Learn. Improve. Repeat.",
     openTo: "Collaborations & Opportunities"
 };
+
+---
+
+### 🚀 What I Build
+
+| Area | Focus |
+| :--- | :--- |
+| 🤖 Artificial Intelligence | Machine Learning, Deep Learning, NLP, Generative AI |
+| 📱 Mobile Development | Android, Kotlin, Jetpack Compose |
+| 🌐 Web Development | Modern web applications and APIs |
+| 👁️ Computer Vision | OpenCV and image-based AI solutions |
+| ☁️ Backend & Cloud | Firebase and application services |
+| 🛠️ Software Engineering | Clean code, Git, APIs & system development |
+
+---
+
+### 🧰 Tech Stack
+
+#### Languages
+![Languages](https://skillicons.dev/icons?i=python,kotlin,java,cpp,js)
+
+#### AI / Machine Learning
+![AI ML](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)
+
+#### Mobile & Web
+![Mobile Web](https://skillicons.dev/icons?i=android,kotlin,html,css,js)
+
+#### Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,linux)
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZillHassnain-bit&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZillHassnain-bit&theme=dark" alt="GitHub Streak" />
+</p>
+
