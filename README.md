@@ -9,12 +9,12 @@
     <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="YOUR_LINKEDIN_URL_HERE">
+  <a href="https://www.linkedin.com/in/muhammad-zill-hassnain-9442bb259">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<p align="center" style="font-size: 24px; font-weight: bold; color: #58a6ff;">
+<p align="center" style="font-size: 20px; font-weight: bold;">
   <a href="#-about-me">AI</a> &nbsp;|&nbsp; 
   <a href="#-what-i-build">Mobile</a> &nbsp;|&nbsp; 
   <a href="#-tech-stack">Web Devel</a>
