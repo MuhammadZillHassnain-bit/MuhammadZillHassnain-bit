@@ -1,22 +1,8 @@
-<h1 align="center">Muhammad Zill Hassnain</h1>
+# Muhammad Zill Hassnain
 
-<p align="center">
-  <b>AI Engineer • Mobile Developer • Web Developer</b>
-</p>
+**AI Engineer • Mobile Developer • Web Developer**
 
-<p align="center">
-  <a href="https://github.com/MuhammadZillHassnain-bit">
-    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-zill-hassnain-9442bb259" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  <b><a href="#-about-me">AI</a> &nbsp;|&nbsp; <a href="#-what-i-build">Mobile</a> &nbsp;|&nbsp; <a href="#-tech-stack">Web Devel</a></b>
-</p>
+[![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadZillHassnain-bit) &nbsp; [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zill-hassnain-9442bb259)
 
 ---
 
@@ -75,11 +61,6 @@ const zillHassnain = {
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZillHassnain-bit&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadZillHassnain-bit&show_icons=true&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZillHassnain-bit&theme=dark" alt="GitHub Streak" />
-</p>
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadZillHassnain-bit&theme=dark)
