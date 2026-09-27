@@ -8,25 +8,12 @@
 
 ### 👋 About Me
 
-```javascript
-const zillHassnain = {
-    name: "Muhammad Zill Hassnain",
-    education: "BS Software Engineering",
-    university: "University of Lahore – Sargodha Campus",
-    location: "Pakistan",
-    role: "AI Engineer in Progress",
-    interests: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Deep Learning",
-        "Generative AI",
-        "Mobile Development",
-        "Web Development"
-    ],
-    currentlyLearning: "Large Language Models",
-    mindset: "Build. Learn. Improve. Repeat.",
-    openTo: "Collaborations & Opportunities"
-};
+* **Education:** BS Software Engineering (University of Lahore – Sargodha Campus)
+* **Location:** Pakistan
+* **Role:** AI Engineer in Progress
+* **Interests:** Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Mobile & Web Development
+* **Currently Learning:** Large Language Models
+* **Mindset:** Build. Learn. Improve. Repeat.
 
 ---
 
